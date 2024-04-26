@@ -16,7 +16,7 @@ import Image from 'next/image';
 
 interface DataDisplayProps {
   tokenData: any;
-  token:any
+  
 }
 
 
